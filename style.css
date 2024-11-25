@@ -1088,6 +1088,19 @@ margin-bottom: 0px !important;
     .inner_leadership{
         display:unset
     }
+
+    .inner_mobile{
+        display: block !important;
+    }
+    .location input,.location select{
+        margin-bottom: 20px;
+    }
+    .location iframe{
+        height: 410px !important;
+    }
+    .location{
+        padding: 0px 9px !important;
+    }
   }
   @media all and (min-width:355px) and (max-width:767px)
 {
